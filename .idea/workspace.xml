@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac31232b-7b0e-419d-ac3a-9f59be8835c7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U1cu7FA5NCJYOjOXBJ002ui8VW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../NCLab-masterrr" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.vsu.lab.store.stream" />
+      <recent name="ru.vsu.lab.store.factory" />
+      <recent name="ru.vsu.lab.store.loaders" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kate2\Desktop\FirstProject-05b64b0d3b80d628f8d912dc2c37591aab5e2323\PersonTask\lib" />
+      <recent name="C:\Users\kate2\Desktop\FirstProject-05b64b0d3b80d628f8d912dc2c37591aab5e2323\PersonTask\src\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.vsu.lab.store.repository" />
+      <recent name="ru.vsu.lab.store.factory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kate2\Desktop\FirstProject-05b64b0d3b80d628f8d912dc2c37591aab5e2323\PersonTask" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PersonTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericRepositoryTest.createFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PersonTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vsu.lab.store.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.vsu.lab.store.repository" />
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.lab.store.repository.GenericRepositoryTest" />
+      <option name="METHOD_NAME" value="createFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericRepositoryTest.searchBy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PersonTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vsu.lab.store.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.vsu.lab.store.repository" />
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.lab.store.repository.GenericRepositoryTest" />
+      <option name="METHOD_NAME" value="searchBy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericRepositoryTest.set" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PersonTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vsu.lab.store.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.vsu.lab.store.repository" />
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.lab.store.repository.GenericRepositoryTest" />
+      <option name="METHOD_NAME" value="set" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PeopleStreamsTest.getDepartments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PersonTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vsu.lab.store.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.vsu.lab.store.stream" />
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.lab.store.stream.PeopleStreamsTest" />
+      <option name="METHOD_NAME" value="getDepartments" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PeopleStreamsTest.getDepartments" />
+        <item itemvalue="JUnit.GenericRepositoryTest.searchBy" />
+        <item itemvalue="JUnit.GenericRepositoryTest.createFactory" />
+        <item itemvalue="JUnit.GenericRepositoryTest.set" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac31232b-7b0e-419d-ac3a-9f59be8835c7" name="Default Changelist" comment="" />
+      <created>1574527761804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574527761804</updated>
+      <workItem from="1574527765694" duration="12344000" />
+      <workItem from="1574545305173" duration="74000" />
+      <workItem from="1574682138907" duration="8571000" />
+      <workItem from="1574750913426" duration="237000" />
+      <workItem from="1575295261701" duration="4656000" />
+      <workItem from="1575388284505" duration="30000" />
+      <workItem from="1575529373007" duration="14726000" />
+      <workItem from="1575754831460" duration="764000" />
+      <workItem from="1575814161092" duration="3433000" />
+      <workItem from="1575825615235" duration="1343000" />
+      <workItem from="1575894094970" duration="6521000" />
+      <workItem from="1575980983816" duration="16000" />
+      <workItem from="1575988262866" duration="123000" />
+      <workItem from="1575988803721" duration="224000" />
+      <workItem from="1575989692211" duration="186000" />
+      <workItem from="1576182054751" duration="115000" />
+      <workItem from="1576318699398" duration="929000" />
+      <workItem from="1585695174237" duration="177000" />
+      <workItem from="1585730123309" duration="5001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PersonTask$LabFactoryTest.ic" NAME="LabFactoryTest Coverage Results" MODIFIED="1574544771049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.vsu.lab.store.factory.*</FILTER>
+    </SUITE>
+  </component>
+</project>
